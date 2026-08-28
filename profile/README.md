@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./QuantumLab-DCI-logo.svg" alt="QuantumLab-DCI" width="680">
+  <img 
+    src="https://raw.githubusercontent.com/QuantumLab-DCI/.github/main/profile/QuantumLab-DCI-logo.svg"
+    alt="QuantumLab-DCI" 
+    width="480">
 </p>
 
 <p align="center">
