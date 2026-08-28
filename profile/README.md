@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./QuantumLab-DCI-logo-vector.svg" alt="QuantumLab-DCI" width="680">
+  <img src="./QuantumLab-DCI-logo.svg" alt="QuantumLab-DCI" width="680">
 </p>
 
 <p align="center">
