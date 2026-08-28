@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Engineering quantum software and hybrid quantum-classical software systems.</strong>
+  <strong>Research group with focus in quantum software engineering and hybrid quantum-classical software systems.</strong>
 </p>
 
 <p align="center">
@@ -15,69 +15,26 @@
 </p>
 
 <p align="center">
-  <a href="http://dci.ufro.cl/">
-    <img src="https://img.shields.io/badge/Website-dci.ufro.cl-0750A4?style=flat-square" alt="DCI website">
-  </a>
-  <a href="mailto:samuel.sepulveda@ufrontera.cl">
-    <img src="https://img.shields.io/badge/Contact-samuel.sepulveda%40ufrontera.cl-00A9F8?style=flat-square" alt="Contact email">
-  </a>
+  <img src="https://img.shields.io/badge/Quantum_Software_Engineering-0750A4?style=flat-square" alt="Quantum Software Engineering">
+  <img src="https://img.shields.io/badge/Hybrid_Quantum--Classical_Software_Systems-0750A4?style=flat-square" alt="Hybrid Quantum-Classical Software Systems">
+  <br>
+  <img src="https://img.shields.io/badge/Quantum_Computing-3B85B4?style=flat-square" alt="Quantum Computing">
+  <img src="https://img.shields.io/badge/Quantum_Programming-3B85B4?style=flat-square" alt="Quantum Programming">
 </p>
 
 ---
 
 ## About Us
 
-**QuantumLab-DCI** is an academic laboratory focused on **quantum software engineering** and **hybrid quantum-classical software systems**. Its work also encompasses quantum computing and quantum programming as foundations for the exploration and early-stage development of quantum software initiatives.
+**QuantumLab-DCI** is an academic laboratory focused on **quantum software engineering** and the design and development of **hybrid quantum-classical software systems**. Quantum computing and quantum programming provide the foundations for its research, education, experimentation, and outreach activities.
 
-We support education, experimentation, and collaboration around the design and development of quantum software, with particular attention to the software engineering challenges posed by hybrid quantum-classical systems.
-
-## Research Focus
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <strong>Quantum Software<br>Engineering</strong>
-    </td>
-    <td width="50%" align="center">
-      <strong>Hybrid Quantum-Classical<br>Software Systems</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <strong>Quantum Computing</strong>
-    </td>
-    <td width="50%" align="center">
-      <strong>Quantum Programming</strong>
-    </td>
-  </tr>
-</table>
-
-## What We Do
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Education</h3>
-      <p align="center">Learning activities connecting quantum computing foundations with quantum software development.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Experimentation</h3>
-      <p align="center">Hands-on exploration of quantum programming tools and hybrid quantum-classical workflows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Outreach</h3>
-      <p align="center">Engagement activities focused on quantum software and its engineering challenges.</p>
-    </td>
-  </tr>
-</table>
+The laboratory promotes the exploration and development of quantum software, with particular attention to the software engineering challenges posed by hybrid quantum-classical systems.
 
 ## Available Equipment
 
 ### SpinQ Gemini Mini Pro
 
-The **SpinQ Gemini Mini Pro** is an educational quantum computing platform used for outreach, demonstrations, and introductory experimentation. It supports the exploration of fundamental quantum concepts, basic programming exercises, and initial analyses of quantum problems.
-
-Its use is intended for educational and outreach activities involving students, academics, and members of the wider community interested in emerging technologies.
+The **SpinQ Gemini Mini Pro** is an educational quantum computing platform used for outreach, demonstrations, and introductory experimentation. It supports the exploration of fundamental quantum concepts, basic quantum programming exercises, and initial analyses of quantum problems involving students, academics, and the wider community.
 
 ## Coordination
 
@@ -87,9 +44,3 @@ Department of Computer Science and Informatics
 Universidad de La Frontera
 
 [samuel.sepulveda@ufrontera.cl](mailto:samuel.sepulveda@ufrontera.cl)
-
----
-
-<p align="center">
-  <sub>QuantumLab-DCI · Universidad de La Frontera</sub>
-</p>
