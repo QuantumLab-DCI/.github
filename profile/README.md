@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/QuantumLab-DCI/.github/main/profile/QuantumLab-DCI-logo.svg"
+    src="https://raw.githubusercontent.com/QuantumLab-DCI/.github/main/profile/logoQuantumLab-DCI.png"
     alt="QuantumLab-DCI" 
     width="480">
 </p>
