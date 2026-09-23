@@ -36,11 +36,119 @@ The laboratory promotes the exploration and development of quantum software, wit
 
 The **SpinQ Gemini Mini Pro** is an educational quantum computing platform used for outreach, demonstrations, and introductory experimentation. It supports the exploration of fundamental quantum concepts, basic quantum programming exercises, and initial analyses of quantum problems involving students, academics, and the wider community.
 
-## Coordination
+## Meet the Team
 
-**Dr. Samuel Eduardo Sepúlveda Cuevas**  
-Laboratory Coordinator  
-Department of Computer Science and Informatics  
-Universidad de La Frontera
+### Laboratory Coordination
 
-[samuel.sepulveda@ufrontera.cl](mailto:samuel.sepulveda@ufrontera.cl)
+<table>
+  <tr>
+    <td width="100%">
+      <sub><strong>LABORATORY COORDINATOR</strong></sub><br><sub>&nbsp;</sub><br>
+      <strong>Dr. Samuel Eduardo Sepúlveda Cuevas</strong><br><br>
+      <sub><strong>DEPARTMENT</strong></sub><br>
+      Department of Computer Science and Informatics<br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      Universidad de La Frontera · Chile<br><br>
+      <sub><strong>CONTACT</strong></sub><br>
+      <a href="mailto:samuel.sepulveda@ufrontera.cl">samuel.sepulveda@ufrontera.cl</a><br><br>
+    </td>
+  </tr>
+</table>
+
+### Researchers and Associated Professionals
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <sub><strong>ASSOCIATED PROFESSIONAL</strong></sub><br><sub>&nbsp;</sub><br>
+      <strong>Claudio Navarro Cruces</strong><br><br>
+      <sub><strong>DEPARTMENT</strong></sub><br>
+      Department of Computer Science and Informatics<br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      Universidad de La Frontera · Chile<br><br>
+      <sub><strong>CONTACT</strong></sub><br>
+      <a href="mailto:claudio.navarro@ufrontera.cl">claudio.navarro@ufrontera.cl</a><br><br>
+    </td>
+    <td width="50%">
+      <sub><strong>ASSOCIATED PROFESSIONAL</strong></sub><br><sub>&nbsp;</sub><br>
+      <strong>Ania Cravero Leal</strong><br><br>
+      <sub><strong>DEPARTMENT</strong></sub><br>
+      Department of Computer Science and Informatics<br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      Universidad de La Frontera · Chile<br><br>
+      <sub><strong>CONTACT</strong></sub><br>
+      <a href="mailto:ania.cravero@ufrontera.cl">ania.cravero@ufrontera.cl</a><br><br>
+    </td>
+  </tr>
+</table>
+
+### Associated Collaborators
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <sub><strong>RESEARCHER</strong></sub><br><sub>&nbsp;</sub><br>
+      <strong>Dr. Ricardo Pérez-Castillo</strong><br><br>
+      <sub><strong>RESEARCH GROUP</strong></sub><br>
+      Alarcos Research Group<br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      Universidad de Castilla-La Mancha · Spain<br><br>
+    </td>
+    <td width="50%">
+      <sub><strong>RESEARCHER</strong></sub><br><sub>&nbsp;</sub><br>
+      <strong>Dr. Enrique Moguel</strong><br><br>
+      <sub><strong>RESEARCH GROUP</strong></sub><br>
+      Quercus Software Engineering Group<br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      Universidad de Extremadura · Spain<br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <sub><strong>RESEARCHER</strong></sub><br><sub>&nbsp;</sub><br>
+      <strong>Dr. Alejandro Fernández</strong><br><br>
+      <sub><strong>RESEARCH GROUP</strong></sub><br>
+      LIFIA<br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      Universidad Nacional de La Plata · Argentina<br><br>
+    </td>
+    <td width="50%">
+      <sub><strong>RESEARCH ASSISTANT · MASTER'S THESIS STUDENT</strong></sub><br><sub>&nbsp;</sub><br>
+      <strong>Lic. Jesús Tapia Martin</strong><br><br>
+      <sub><strong>ACADEMIC PATH</strong></sub><br>
+      Computer Science Engineering Student<br>
+      M.Sc. Student in Computer Engineering<br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      Universidad de La Frontera · Chile<br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <sub><strong>RESEARCH ASSISTANT · THESIS STUDENT</strong></sub><br><sub>&nbsp;</sub><br>
+      <strong>Lic. Víctor Mardones</strong><br><br>
+      <sub><strong>ACADEMIC PATH</strong></sub><br>
+      Computer Science Engineering Student<br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      Universidad de La Frontera · Chile<br><br>
+    </td>
+    <td width="50%">
+      <sub><strong>RESEARCH ASSISTANT · THESIS STUDENT</strong></sub><br><sub>&nbsp;</sub><br>
+      <strong>Lic. Alex Sagredo</strong><br><br>
+      <sub><strong>ACADEMIC PATH</strong></sub><br>
+      Computer Science Engineering Thesis Student<br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      Universidad de La Frontera · Chile<br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <sub><strong>RESEARCH ASSISTANT · THESIS STUDENT</strong></sub><br><sub>&nbsp;</sub><br>
+      <strong>Lic. Camila Cartes</strong><br><br>
+      <sub><strong>ACADEMIC PATH</strong></sub><br>
+      Computer Science Engineering Thesis Student<br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      Universidad de La Frontera · Chile<br><br>
+    </td>
+    <td width="50%">&nbsp;</td>
+  </tr>
+</table>
